@@ -1,0 +1,317 @@
+ 
+                                                <li><span class="caret">Security Related Issues</span>
+                                                    <ul class="nested inside">
+                                                        <!-- <li>	None	</li>
+                                                        <li>	Near Miss	</li>
+                                                        <li>	Minor	</li>
+                                                        <li>	Moderate	</li>
+                                                        <li>	Major	</li>
+                                                        <li>	Catastrophic	</li> -->
+
+
+                                                    <!-- </ul>  -->
+                                                        
+                                                        <!--
+                                                        <li><span class="caret">General Security</span>
+                                                            <ul class="nested inside">
+                                                                <li>	Fraud	</li>
+<li>	No property pass	</li>
+<li>	Smoking policy violation	</li>
+<li>	Unclaimed patient belongings	</li>
+<li>	Public Disorder	</li>
+<li>	Staff not wearing badges/Identification while in hospital premises	</li>
+<li>	Poor security response	</li>
+<li>	No security staff in the building	</li>
+<li>	Noncompliance with visiting hours' policy	</li>
+<li>	Breach of confidentiality	</li>
+<li>	Door lock changed	</li>
+<li>	Suicidal Attempt	</li>
+<li>	Weapon Found	</li>
+<li>	Access door malfunction	</li>
+<li>	Photography/Videography of Healthcare Facility environment by Patient	</li>
+<li>	Photography/Videography of Healthcare Facility environment by Watcher /Family Patient	</li>
+<li>	Unauthorized photography/videography of healthcare facility staff by the patient	</li>
+<li>	Unauthorized photography/videography of healthcare facility staff by watcher/ patient family	</li> 
+
+                                                                </ul>
+
+                                                    
+                                                     <li><span class="caret">Suspected Abuse and Neglect by Healthcare provider/family</span>
+                                                        <ul class="nested inside">
+                                                            <li>	Elderly Sexual	</li>
+                                                            <li>	Adult Sexual	</li>
+                                                            <li>	Child sexual	</li>
+                                                            <li>	Ederly Neglect	</li>
+                                                            <li>	Child Neglect	</li>
+                                                            <li>	Adult Neglect	</li>
+                                                            
+                                                            </ul>
+
+                                                  
+                                                     <li><span class="caret">Theft and Lost</span>
+                                                        <ul class="nested inside">
+                                                            <li>	Missing property	</li>
+<li>	Stamp Missing	</li>
+<li>	Loss of medications	</li>
+
+                                                            </lu>
+
+                                                     
+
+                                                     <li><span class="caret">Narcotics and Dangerous Drugs</span>
+                                                        <ul class="nested inside">
+                                                            <li>	Controlled Medication cabinet keys/access issues	</li>
+                                                            <li>	Controlled medication count not done	</li>
+                                                            <li>	Controlled medication left unsecured	</li>
+                                                            <li>	Narcotic Broken Full ampoule/vial	</li>
+                                                            <li>	Controlled medication spilled	</li>
+                                                            <li>	Controlled medication-broken	</li>
+                                                            <li>	Controlled medication-inadvertent disposal	</li>
+                                                            <li>	Narcotic Broken empty ampule/vial	</li>
+                                                            <li>	Narcotic Lost empty ampoule/vial	</li>
+                                                            <li>	Narcotic Lost Full ampoule/vial	</li>
+                                                            <li>	Medication duplication	</li>
+                                                            <li>	Controlled Medication count Inappropriate /Incorrect	</li>
+                                                            <li>	Inadvertent disposal Controlled Medication	</li>
+                                                            
+                                                            </lu>
+                                                     
+                                                     <li><span class="caret">Suspected Abuse and Neglect (SAN)</span>
+                                                        <ul class="nested inside">
+                                                            <li>	SAN Adult fabricated or induced illness	</li>
+<li>	SAN Adult physical	</li>
+<li>	SAN Child fabricated or induced illness	</li>
+<li>	SAN Child physical	</li>
+
+                                                            </lu>
+
+                                                     
+
+                                                     <li><span class="caret"> Emergency Code</span>
+                                                        <ul class="nested inside">
+                                                            <li>	Bomb threat Code	</li>
+                                                            <li>	Missing Person/Patient Code	</li>
+                                                            <li>	Abusive / violent /disruptive or self-harming behavior Code	</li>
+                                                            
+                                                            </lu>
+
+                                                     
+
+                                                     <li><span class="caret"> Assault / Harassment</span>
+                                                        <ul class="nested inside">
+                                                            <li>	Physical Assault	</li>
+                                                            <li>	Actual or potential violent or out of control person (White Code)	</li>
+                                                            <li>	Verbal Assault	</li>
+                                                            <li>	Abusive / violent / disruptive or self-harming behavior	</li>
+                                                            <li>	Intended Self Harm	</li>
+                                                            <li>	Physical Harassment	</li>
+                                                            <li>	Verbal Harassment	</li>
+                                                            
+                                                            
+                                                     <li>Near Miss</li>
+                                                     <li> Minor</li>
+                                                     <li>Moderate</li>
+                                                     <li>  Major</li>
+                                                     <li> Catastrophic</li>
+                                                     <li>None</li>
+                                                   
+                                             
+                                                    </ul>
+                                                
+                                                <li><span class="caret">Skin lesions/ Integrity</span>
+                                                    <ul class="nested inside">
+
+                                                    <li>Bruise\Skin Lesion</li>
+                                                    <li>Hematoma</li>
+                                                    <li>Skin tear</li>
+                                                    <li>Surgical wound site</li>
+                                                    <li>Redness</li>
+                                                    <li>Skin peeling</li>
+                                                    <li>Cellulitis</li>
+                                                    <li>Excoriation</li>
+                                                    <li>Rash</li>
+                                                    <li>Blister</li>
+                                                    <li>Abrasion</li>
+                                                    <li>Burn</li>
+                                                    <li>Medical Adhesive Related Skin Injury (MARSI)</li>
+                                                    <li>Moisture Associated Skin Damage (MASD)</li>
+                                                    <li>Skin Discoloration</li>
+                                                    <li>Friction burn</li>
+                                                    <li>Multiple abrasion due to RTA</li>
+                                                    <li>Old scar</li>
+                                                    <li>Scratch/ Skin abrasion</li>
+                                                    <li>Small ulcer or blister not in pressure area</li>
+                                                     <li>None</li>
+                                                     <li>Near Miss</li>
+                                                     <li>Minor</li>
+                                                     <li>Moderate</li>
+                                                     <li>Major</li>
+                                                     <li>Catastrophic</li>
+
+                                                    </ul>
+                                                <li><span class="caret">Supply Chain issues (logistics)</span>
+                                                    <ul class="nested inside">
+                                                        <li>	Non availability of medical items in store	</li>
+                                                        <li>	Non-Availability of Non-Stock Items	</li>
+                                                        <li>	Non availability of furniture items	</li>
+                                                        <li>	Non authorised property movement	</li>
+                                                        <li>	Overstock of medical items in wards	</li>
+                                                        <li>	Unregistered medical device	</li>
+                                                        <li>	Damaged Items When Delivered	</li>
+                                                        <li>	Delayed medical items delivery response	</li>
+                                                        <li>	Lack of stationary items supplies	</li>
+                                                        <li>	Medical items alerts/recalls	</li>
+                                                        <li>	Medication out of stock	</li>
+                                                        <li>	Expired Product	</li>
+                                                        <li>	Expired Medication	</li>
+                                                        <li>	Gas cylinders not refilled	</li>
+                                                        <li>	Supplies Misuse	</li>
+                                                        <li>	packing/labeling Failure	</li>
+                                                        <li>	Contaminated equipment/supplies	</li>
+                                                        <li>	Counterfeit	</li>
+                                                        <li>	Item alert/ recall	</li>
+                                                        <li>	Poor quality of supply	</li>
+                                                        <li>	Stock Variances	</li>
+                                                        <li>	Supplies Wasted	</li>
+                                                        <li>	Warehouse sending unapproved items	</li>
+                                                        <li>	None	</li>
+                                                        <li>	Near Miss	</li>
+                                                        <li>	Minor	</li>
+                                                        <li>	Moderate	</li>
+                                                        <li>	Major	</li>
+                                                        <li>	Catastrophic	</li>
+                                                        
+
+
+                                                    </ul>
+                                                <li><span class="caret">ID/Document/Consent</span>
+                                                    <ul class="nested inside">
+
+                                                        <li><span class="caret">ID</span>
+                                                            <ul class="nested inside">
+                                                                <li>	Illegible	</li>
+                                                                <li>	Wrong MRN	</li>
+                                                                <li>	Wrong Name	</li>
+                                                                <li>	Absent	</li>
+                                                                <li>	No ID	</li>
+                                                                <li>	Improper Patient Identification	</li>
+                                                                
+                                                           </lu>
+                                                       
+                                                        <li><span class="caret">Consent</span>
+                                                            <ul class="nested inside">
+                                                                <li>	Abbreviation Used	</li>
+<li>	None	</li>
+<li>	Wrong Side/Site Listed	</li>
+<li>	Wrong Signature	</li>
+<li>	Incomplete	</li>
+<li>	Unsigned	</li>
+<li>	Wrong Procedure Listed	</li>
+<li>	Expired Consent	</li>
+
+                                                                
+                                                           </lu>
+                            
+                                                        <li><span class="caret">DNR</span>
+                                                            <ul class="nested inside">
+                                                                <li>	Abbreviation Used	</li>
+                                                                <li>	Absent	</li>
+                                                                <li>	Incomplete	</li>
+                                                                <li>	Unsigned	</li>
+                                                                <li>	Unclear	</li>
+                                                                
+
+                                                                
+                                                           </lu>
+
+                                                           <li><span class="caret">Documentation</span>
+                                                            <ul class="nested inside">
+                                                                <li>	Illegible	</li>
+                                                                <li>	Absent	</li>
+                                                                <li>	Incomplete	</li>
+                                                                <li>	Altered	</li>
+                                                                <li>	Inadequate	</li>
+                                                                <li>	Inappropriate	</li>
+                                                                <li>	Incorrect	</li>
+                                                                <li>	Misfiling	</li>
+                                                                <li>	Legal Guardian Signature Missing	</li>
+                                                                <li>	Unsigned Telephone Order	</li>
+                                                                <li>	Wrong Addressograph	</li>
+                                                                <li>	Unsigned Notes	</li>
+                                                                <li>	Document Unavailable	</li>
+                                                                <li>	Delay in collecting forms	</li>
+                                                                <li>	Delay in writing the report	</li>
+                                                                <li>	Delay of submitting patient sick leave	</li>
+                                                                <li>	Incorrect form used	</li>
+                                                                <li>	Delay in Imaging report	</li>
+                                                                <li>	Document Missing	</li>
+                                                                <li>	Unapproved abbreviation	</li>
+                                                                <li>	Discharge clearance not done	</li>
+                                                                <li>	Delay of Patient Medical Record	</li>
+                                                                
+                                                                
+
+                                                                
+                                                           </lu>
+                                                    
+                                                       
+                                                        
+
+
+                                                    </ul>
+                                                <li><span class="caret">Home Care Related Issue</span>
+                                                    <ul class="nested inside">
+                                                        <li>	Car Break down or Accident	</li>
+                                                        <li>	Cancelled by Patient / Relatives	</li>
+                                                        <li>	Cancelled by Home Care Team	</li>
+                                                        <li>	Change of residential location	</li>
+                                                        <li>	No Male or Female Chaperone	</li>
+                                                        <li>	Confirmed Visit no response	</li>
+                                                        <li>	Out of Town	</li>
+                                                        <li>	Patient appointment in the Hospital	</li>
+                                                        <li>	Patients is not available for scheduled visit	</li>
+                                                        <li>	Re-admission to Hospital	</li>
+                                                        <li>	Unable to contact patient by phone	</li>
+                                                        <li>	Unable to locate patients house	</li>
+                                                        <li>	Near Miss	</li>
+                                                        <li>	Minor	</li>
+                                                        <li>	Moderate	</li>
+                                                        <li>	Major	</li>
+                                                        <li>	Catastrophic	</li>
+                                                        <li>	None	</li>
+                                                        
+
+
+                                                    </ul>
+                                                <li><span class="caret">Transportation</span>
+                                                    <ul class="nested inside">
+                                                        <li>	Traffic Accident (Outside the organisation performing organisational duty)	</li>
+                                                        <li>	Booking of transport services for unlegible beneficiaries	</li>
+                                                        <li>	Late arrival of driver	</li>
+                                                        <li>	Misuse of A vehicles	</li>
+                                                        <li>	Near Miss	</li>
+                                                        <li>	Minor	</li>
+                                                        <li>	Moderate	</li>
+                                                        <li>	Major	</li>
+                                                        <li>	Catastrophic	</li>
+                                                        <li>	None	</li>
+                                                        
+
+
+                                                    </ul>
+                                                <li><span class="caret">Ambulance & Emergency Service
+                                                    </span>
+                                                    <ul class="nested inside">
+                                                        <li>	Accident while transferring patient	</li>
+                                                        <li>	Break Down	</li>
+                                                        <li>	Driver No Show	</li>
+                                                        <li>	Ambulance not working	</li>
+                                                        <li>	Ambulance not available	</li>
+                                                        <li>	Ambulance not equipped with required medical items	</li>
+                                                        <li>	Transfer patient with out healthcare staff	</li>
+                                                        <li>	Flat Tire	</li>
+                                                        
+
+
+                                                    </ul>
+                                             -->
